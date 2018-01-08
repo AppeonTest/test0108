@@ -3,5 +3,4 @@
  "a32.pbl" "";
 @end;
 @begin Objects 
- "w321.srw" "a32.pbl";
 @end;
