@@ -20,6 +20,7 @@ end type
 global w41 w41
 
 event open;//888
+//99
 end event
 
 on w41.create
