@@ -20,6 +20,7 @@ end type
 global w322 w322
 
 event open;//888
+//99
 end event
 
 on w322.create
