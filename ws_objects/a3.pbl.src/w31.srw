@@ -19,7 +19,7 @@ boolean center = true
 end type
 global w31 w31
 
-event open;//555555666
+event open;//11111111111111
 end event
 
 on w31.create
