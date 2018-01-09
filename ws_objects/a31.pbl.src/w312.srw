@@ -19,7 +19,7 @@ boolean center = true
 end type
 global w312 w312
 
-event open;//4444
+event open;//666
 end event
 
 on w312.create
