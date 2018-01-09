@@ -1,0 +1,30 @@
+﻿$PBExportHeader$w41.srw
+forward
+global type w41 from window
+end type
+end forward
+
+global type w41 from window
+integer width = 3378
+integer height = 1408
+boolean titlebar = true
+string title = "Untitled"
+boolean controlmenu = true
+boolean minbox = true
+boolean maxbox = true
+boolean resizable = true
+long backcolor = 67108864
+string icon = "AppIcon!"
+boolean center = true
+end type
+global w41 w41
+
+event open;//
+end event
+
+on w41.create
+end on
+
+on w41.destroy
+end on
+
