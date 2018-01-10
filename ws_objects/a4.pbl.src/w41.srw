@@ -42,6 +42,7 @@ event open;//888e
 //you
 //1
 //de
+//yy
 end event
 
 on w41.create
