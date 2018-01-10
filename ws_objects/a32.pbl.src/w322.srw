@@ -30,7 +30,6 @@ event open;//888
 //sss000
 //000
 //121212
-//defe
 end event
 
 on w322.create
