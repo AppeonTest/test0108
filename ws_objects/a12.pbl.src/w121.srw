@@ -20,6 +20,7 @@ end type
 global w121 w121
 
 event open;//1111111111111
+//1
 end event
 
 on w121.create
