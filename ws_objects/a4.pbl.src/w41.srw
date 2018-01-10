@@ -25,6 +25,7 @@ event open;//888
 //hhh
 //aaa
 //123
+//aooo
 end event
 
 on w41.create
