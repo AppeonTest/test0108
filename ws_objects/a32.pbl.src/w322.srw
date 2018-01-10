@@ -26,6 +26,7 @@ event open;//888
 //aaa
 //bbb
 //ccc
+//ss
 end event
 
 on w322.create
