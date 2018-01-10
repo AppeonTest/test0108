@@ -22,6 +22,7 @@ global w321 w321
 event open;//888
 //988
 //001
+//007
 end event
 
 on w321.create
