@@ -38,6 +38,7 @@ event open;//888
 //aa
 //tttt
 //77774
+//tt
 end event
 
 on w41.create
