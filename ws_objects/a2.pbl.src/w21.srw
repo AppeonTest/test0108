@@ -22,6 +22,7 @@ global w21 w21
 event open;//111111111111111122
 //3333333330
 //jjjj
+//accc
 end event
 
 on w21.create
