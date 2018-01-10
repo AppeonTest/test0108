@@ -21,6 +21,7 @@ global w322 w322
 
 event open;//888
 //sss
+//hhhh
 end event
 
 on w322.create
