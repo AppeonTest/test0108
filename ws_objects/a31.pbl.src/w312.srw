@@ -20,6 +20,7 @@ end type
 global w312 w312
 
 event open;//8889999
+//234
 end event
 
 on w312.create
