@@ -19,7 +19,7 @@ boolean center = true
 end type
 global w21 w21
 
-event open;//111111111111111122
+event open;
 //3333333330
 //jjjj
 //accc
