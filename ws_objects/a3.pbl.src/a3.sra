@@ -32,6 +32,7 @@ destroy(error)
 destroy(message)
 end on
 
-event open;//123445
+event open;//opop
+//123
 end event
 
