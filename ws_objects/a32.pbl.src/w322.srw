@@ -31,7 +31,6 @@ event open;//888
 //000
 //121212
 //111111
-//22222
 end event
 
 on w322.create
