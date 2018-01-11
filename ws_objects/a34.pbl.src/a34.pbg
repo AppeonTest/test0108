@@ -3,4 +3,5 @@
  "a34.pbl" "";
 @end;
 @begin Objects 
+ "u_reproduce.sru" "a34.pbl";
 @end;
