@@ -28,6 +28,7 @@ event open;
 //11
 //7777
 //uuu
+//yuyu
 end event
 
 on w21.create
