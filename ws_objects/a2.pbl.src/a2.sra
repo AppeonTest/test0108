@@ -33,5 +33,6 @@ destroy(message)
 end on
 
 event open;//tttt
+//fd
 end event
 
