@@ -21,7 +21,7 @@ global w11 w11
 
 event open;//1111
 end event
-//
+
 on w11.create
 end on
 
