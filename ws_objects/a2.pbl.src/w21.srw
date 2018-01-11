@@ -27,6 +27,7 @@ event open;
 //gj
 //11
 //7777
+//fefe
 end event
 
 on w21.create
