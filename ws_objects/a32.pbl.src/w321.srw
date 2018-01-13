@@ -31,12 +31,7 @@ cb_1 cb_1
 end type
 global w321 w321
 
-event open;//88813434343438878778
-//988
-//00145435443
-//007
-//0000
-//1111
+event open;//888
 end event
 
 on w321.create
