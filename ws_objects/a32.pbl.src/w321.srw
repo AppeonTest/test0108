@@ -66,6 +66,9 @@ string facename = "Tahoma"
 string text = "none"
 end type
 
+event clicked;///
+end event
+
 type cb_2 from commandbutton within w321
 integer x = 1454
 integer y = 636
