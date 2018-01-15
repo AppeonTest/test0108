@@ -19,33 +19,10 @@ boolean center = true
 end type
 global w41 w41
 
-event open;//888e
+event open;//888
 //99
 //aaa
 //hhh
-//aaa
-//123
-//aooo
-//14
-//150
-//0010
-//002
-//0033
-//99990
-//22222
-//kkkk
-//bbbcc
-//aa
-//tttt
-//77774
-//tt
-//you
-//1
-//de
-//hh
-//hhhh
-//gggg
-//11111
 end event
 
 on w41.create

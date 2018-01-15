@@ -3,5 +3,6 @@
  "a4.pbl" "";
 @end;
 @begin Objects 
+ "a4.sra" "a4.pbl";
  "w41.srw" "a4.pbl";
 @end;
